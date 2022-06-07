@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296565158383",
+    "project_id": "pomodoro-clocc",
+    "storage_bucket": "pomodoro-clocc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296565158383:android:da8921c2a362927872861a",
+        "android_client_info": {
+          "package_name": "com.example.pomodoro_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296565158383-c0j1qkjl8hu0smppr08n4atug0pn6v4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6zV74poM38qYnZgjdBHQNaYauwm3qwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296565158383-c0j1qkjl8hu0smppr08n4atug0pn6v4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
